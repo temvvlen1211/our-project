@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "https://www.everyveganrecipe.com/recipe/images/carrot-cake-vegan_sm.jpg",
+    "altText": "Slide 1",
+    "title": "Apple Watch Series 7 ",
+    "price": "599$"
+  },
+  {
+    "id": 2,
+    "imageSrc": "https://www.everyveganrecipe.com/recipe/images/salted-caramel-chocolate-chip-raspberry-ice-cream-cups_sm.jpg",
+    "altText": "Slide 2",
+    "title": "Aluminium Case",
+    "price": "599$"
+  },
+  {
+    "id": 3,
+    "imageSrc": "https://www.everyveganrecipe.com/recipe/images/no-bake-pumpkin-cheesecake_sm.jpg",
+    "altText": "Slide 3",
+    "title": "Every Vegan Recipe",
+    "price": "599$"
+  },
+  {
+    "id": 4,
+    "imageSrc": "https://www.everyveganrecipe.com/recipe/images/pumpkin-pie-hummus_sm.jpg",
+    "altText": "Slide 3",
+    "title": "Every Vegan Recipe",
+    "price": "599$"
+  },
+  {
+    "id": 5,
+    "imageSrc": "https://www.everyveganrecipe.com/recipe/images/pumpkin-pie-hummus_sm.jpg",
+    "altText": "Slide 3",
+    "title": "Every Vegan Recipe",
+    "price": "599$"
+  },
+  {
+    "id": 6,
+    "imageSrc": "https://www.everyveganrecipe.com/recipe/images/pumpkin-pie-hummus_sm.jpg",
+    "altText": "Slide 3",
+    "title": "Every Vegan Recipe",
+    "price": "599$"
+  },
+  {
+    "id": 7,
+    "imageSrc": "https://www.everyveganrecipe.com/recipe/images/pumpkin-pie-hummus_sm.jpg",
+    "altText": "Slide 3",
+    "title": "Every Vegan Recipe",
+    "price": "599$"
+  }
+]
